@@ -1,0 +1,180 @@
+canonical_identifier: bkk:krp/KR6i0462/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0462/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 本事經
+  identifiers:
+    krp: KR6i0462
+    cbeta: T17n0765
+    cbeta_old_id: T17n0765
+    authorityid: CA0000294
+    json_key: T0765
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0765.xml
+    old_id: T17n0765
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0462_000-T.yaml, hash: 'sha256:10fa37f349d5d7d6e56db105106d314d28b4fd53d9bd72fd715d2b03a7ac1cdd'}
+  - {seq: 1, filename: KR6i0462_001-T.yaml, hash: 'sha256:396f65c5f1bf2af899630d46ce2ed160893ab459829c4ac9a7f1930ad59ed258'}
+  - {seq: 2, filename: KR6i0462_002-T.yaml, hash: 'sha256:eca584a4330909be1977186de0f15253bd6e301ae7d41bd1d079589f35f265fa'}
+  - {seq: 3, filename: KR6i0462_003-T.yaml, hash: 'sha256:715fba0d84c18fc1639fcee5feb4d9942b0689d9e6a19717b05aed0d2305c83f'}
+  - {seq: 4, filename: KR6i0462_004-T.yaml, hash: 'sha256:093a40508316a5d9f6fc6681890a9f563695b434b71917346e5985a44f949258'}
+  - {seq: 5, filename: KR6i0462_005-T.yaml, hash: 'sha256:6676f5353f2609afe2b326d3731d7875ffdf0a4a39f35d25ea52a0e87de6611a'}
+  - {seq: 6, filename: KR6i0462_006-T.yaml, hash: 'sha256:f4620fbe30462cae04ed086893c854a224b16928242383ed9eb8c40dfcedb71a'}
+  - {seq: 7, filename: KR6i0462_007-T.yaml, hash: 'sha256:31cd82d85b939856e4ad20660ada23971ec5228682323e6f2274ace43708fb8c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0462_000-T.markers.yaml, hash: 'sha256:3848311cd34f48667740506736b190425c90dbc19876cbfdbb4b8906683358fd'}
+  - {seq: 1, role: markers, filename: assets/KR6i0462_001-T.markers.yaml, hash: 'sha256:11a0ef9d886f387b6cf81ca39ccb937d5e02db8de84ae74a0c258cc87fad403f'}
+  - {seq: 2, role: markers, filename: assets/KR6i0462_002-T.markers.yaml, hash: 'sha256:cf8decd7dc66314cb9247a36201319cc27c34e3f9458d9b00ecd0e788de60109'}
+  - {seq: 3, role: markers, filename: assets/KR6i0462_003-T.markers.yaml, hash: 'sha256:16413dbd0d9273aa8cd2671fbc9cc6f3bb8937b6806f66f4c739be02d7769f65'}
+  - {seq: 4, role: markers, filename: assets/KR6i0462_004-T.markers.yaml, hash: 'sha256:08d13fd1991e5d7ef99dad3efc55a73dfa1e8faf08d13fcfe6d8dd847c4eb339'}
+  - {seq: 5, role: markers, filename: assets/KR6i0462_005-T.markers.yaml, hash: 'sha256:ec0e58c066ba1e57b3da595953bb15ff467934a733604f71c0ca3f00b9f7a64a'}
+  - {seq: 6, role: markers, filename: assets/KR6i0462_006-T.markers.yaml, hash: 'sha256:5d927217e60a456a2a14e4696f427166c450d67294a2516867e4f9edbc0f5511'}
+  - {seq: 7, role: markers, filename: assets/KR6i0462_007-T.markers.yaml, hash: 'sha256:a736b87949be9bf9128ffc52c13c3603a1c08c85547e4ebc346508423cbf9357'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0462_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6457
+  label: 本事經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0462_T_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 1 一法品(一-二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0462_T_001-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0462_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5938
+  label: 本事經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0462_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 6820
+  label: 本事經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0462_T_003-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 2 二法品(三-五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0462_T_003-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0462_T_003-mulu-3
+    span:
+    - body
+    - 5720
+    - 5720
+  label: 挍正後序
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0462_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 5884
+  label: 本事經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0462_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 6726
+  label: 本事經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0462_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 6574
+  label: 本事經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0462_T_006-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 3 三法品(六-七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0462_T_006-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0462_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 6628
+  label: 本事經卷第七
+  type: juan
+  level: 1
+hash: sha256:4b6c177541176a8a9860700e5634a429651d113ba64aed829ed5157225552009
